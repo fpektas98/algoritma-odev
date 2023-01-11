@@ -1,7 +1,7 @@
 # algoritma-odev
 
 İnsertion Sort
-  [22,27,16,2,18,6] Dizisini insertion sort algoritması ile çalıştırdığımızda;
+  [22,27,16,2,18,6] Dizisini insertion sort algoritması ile çalıştırdığımızda; <br>
   Dizinin ikinci elemanı başlangıç elemanı olarak seçilecektir.
   Başlangıç elemanı [27] kendinden önceki eleman olan [22] ile kıyaslanır.
   27>22 : sıralama değişmedi 
